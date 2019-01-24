@@ -1,4 +1,4 @@
-<!-- TITLE: Nossa história -->
+<!-- TITLE:Diretoria -->
 <!-- SUBTITLE: Nossa história -->
 
 # Nossa história
